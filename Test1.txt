@@ -1,3 +1,4 @@
 Creating this file to learn few git features
-1. Hii testing again old data part2 
+1. Hii testing again old data 
+2. Hiii solved few merge conflicts.
 & many more in master branch lets resolve lets start.
