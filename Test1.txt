@@ -1,5 +1,6 @@
 Creating this file to learn few git features
 1. Hii again old data 
 2. Hiii solved few merge.
-3. Is it working
+3. Is it working.
+4. created new data base.
 & many more in master branch lets resolve lets start.
