@@ -1,5 +1,3 @@
 Creating this file to learn few git features
-1. git stash.
-2. Cheery picking.
-3. git rebase 
+1. OK
 & many more in master branch lets resolve lets start.
