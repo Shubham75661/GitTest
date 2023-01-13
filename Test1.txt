@@ -8,6 +8,9 @@ Creating this file to learn few git features
 _______Fllowing Section is on branch 2 _______
 
 Dev 2 added this feacture now dev 1 wants it
+______________________________________________
+
+Dev 2 added this feacture now dev 1 wants it
 Dev 1 This is commited by dev 1
 ______________________________________________
 & many more in master branch lets resolve lets start.
