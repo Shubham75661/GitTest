@@ -2,4 +2,4 @@ Creating this file to learn few git features
 1. git stash.
 2. Cheery picking.
 3. git rebase 
-& many more in master branch lets resolve conflicts.
+& many more in master branch lets resolve lets start.
