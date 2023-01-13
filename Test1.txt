@@ -1,4 +1,3 @@
 Creating this file to learn few git features
-<<<<<<< Updated upstream
 1. OK
 & many more in master branch lets resolve lets start.
